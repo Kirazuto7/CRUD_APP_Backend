@@ -1,5 +1,13 @@
 # CRUD_APP_Backend
 
+### Group Members
+| Name       | Github              |
+| --------------- | ----------------- |
+| Jordan Sukhnandan | Kirazuto7 |
+| Oscar Andrade  | OscarAnd123 |
+| Arifa Baksh | Arifa-B |
+| Alden Lee | AldenL |
+
 This repository is the server (back-end) starter code for Final Project (CRUD Application).
 
 ### Prerequisites
