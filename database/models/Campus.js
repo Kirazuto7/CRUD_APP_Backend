@@ -15,7 +15,7 @@ const Campus = db.define("campus", {
 
   imageUrl: {
     type: Sequelize.STRING,
-    defaultValue: "",
+    defaultValue: "https://media.istockphoto.com/photos/university-in-autumn-picture-id173598452?k=20&m=173598452&s=170667a&w=0&h=HxRuZzeSaZKP0f0a634LL2KUDbom5hVSBI30Im9Ei1I="
   },
 
   address: {
