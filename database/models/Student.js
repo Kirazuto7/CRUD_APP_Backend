@@ -32,8 +32,7 @@ const Student = db.define("student", {
   },
   imageURL: {
     type: Sequelize.STRING,
-    allowNull: true,
-    defaultValue: "https://picsum.photos/200/200"
+    defaultValue: "https://cdn-icons-png.flaticon.com/512/149/149071.png"
   }
 });
 
